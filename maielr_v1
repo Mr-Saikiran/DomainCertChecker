@@ -1,0 +1,2 @@
+#!/bin/bash
+ (echo "Subject: SSL-Cert-Expiration mail for the month of $(date +%B)"; echo "MIME-Version: 1.0"; echo "Content-Type: text/html"; echo "Content-Disposition: inline"; echo "To: Saikiran.M@mail.com"; cat /users/MrSunny-M/shell/certChecker/certs_check.html ; ) | /usr/sbin/sendmail -f checklistBot@mail.com -t

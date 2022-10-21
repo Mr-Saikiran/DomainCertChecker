@@ -1,0 +1,3 @@
+#!/bin/bash
+ EMAIL=checklistBot@email.com mutt -e "set realname=Automator" -e "set content_type=text/html" saikiran.m@mail.com -s "SSL-Cert-Expiration mail for the month of $(date +%B)" -a /users/MrSunny-M/shell/certChecker/certs_check.html < /users/MrSunny-M/shell/certChecker/certs_check.html
+

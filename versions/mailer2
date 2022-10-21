@@ -1,0 +1,3 @@
+#!/bin/bash
+ (echo "Subject: CertCheck-Weekly[Beta] as on $(date) ";  echo "To: TCS.MiddlewareServices@unfi.com"; /users/sm00007/shell/certCheck.sh -f domains | tee -a /users/sm00007/shell/out.txt ; ) | /usr/sbin/sendmail -f checklistBot@unfi.com -t
+
