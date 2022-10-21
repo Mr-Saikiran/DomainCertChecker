@@ -1,3 +1,0 @@
-#!/bin/bash
- EMAIL=checklistBot@unfi.com mutt -e "set realname=Automator" -e "set content_type=text/html" TCS.MiddlewareServices@unfi.com -s "SSL-Cert-Expiration mail for all domains" -a /users/sm00007/shell/certChecker/certs_check.html < /users/sm00007/shell/certChecker/certs_check.html
-
