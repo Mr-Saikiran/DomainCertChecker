@@ -1,2 +1,3 @@
-# DomainCertChecker
-checks certificate periodically to let the organizations know if any certificates are expiring
+### DomainCertChecker
+
+checks certificate validity periodically with an email to SRE on site reliability
