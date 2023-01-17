@@ -31,7 +31,7 @@ must specify -f option with the name of the file that contains the list of sites
 
 ### Options
 
-    		-f [ sitelist file ]          list of sites (domains) to check
+    	-f [ sitelist file ]          list of sites (domains) to check
 		-o [ html | terminal ]        output (can be html or terminal)
 		-m [ mail ]                   mail address to send the graphs to
 		-h                            help
