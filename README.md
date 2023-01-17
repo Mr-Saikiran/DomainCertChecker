@@ -43,7 +43,6 @@ must specify -f option with the name of the file that contains the list of sites
 
 ## Support
 
-<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mrsunny"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrsunny" /></a></p><br><br>
 
 ## Author
